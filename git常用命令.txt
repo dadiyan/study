@@ -1,0 +1,4 @@
+1 git init       创建git仓库
+2 git add .      将所有修改添加到暂存区
+3 git commit -m '项目描述' 添加项目描述
+4 git push origin master   将内容推送到仓库
